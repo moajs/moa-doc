@@ -3,7 +3,7 @@ var fs = Promise.promisifyAll(require("fs"));
 var shell = require('shelljs');
 var Handlebars = require('handlebars');
 
-var console = require('logge');
+// var console = require('logge');
 
 function decode_url(url){
 	url = url.replace(/__/g,':');
