@@ -30,6 +30,7 @@
   "dependencies": {
     "bluebird": "^2.4.0",
     "commander": "^2.5.1",
+    "dirw": "^1.0.3",
     "handlebars": "^2.0.0",
     "i5ting_toc": "^1.1.1",
     "request": "^2.51.0",

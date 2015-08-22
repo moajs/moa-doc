@@ -19,6 +19,15 @@ dept
 - [x] 支持markdown文档
 - [x] 支持生成toc文档
 
+## 关于目录
+
+request目录下面
+
+user 即 user路由
+
+api/v1/user 即api
+
+
 ## Install 
 
 	[sudo] npm install -g api-test
